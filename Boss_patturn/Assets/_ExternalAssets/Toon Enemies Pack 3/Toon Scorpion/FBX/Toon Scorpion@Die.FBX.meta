@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: ebbb88f481f7e1c4794bfa1dd238e06d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigFeelerL01
+    100004: RigFeelerL01Gizmo
+    100006: RigFeelerL02
+    100008: RigFeelerL02Gizmo
+    100010: RigFeelerR01
+    100012: RigFeelerR01Gizmo
+    100014: RigFeelerR02
+    100016: RigFeelerR02Gizmo
+    100018: RigHead
+    100020: RigHeadGizmo
+    100022: RigJaw
+    100024: RigJawGizmo
+    100026: RigLArm1
+    100028: RigLArm1Gizmo
+    100030: RigLArm2
+    100032: RigLArm2Gizmo
+    100034: RigLArmIndex1
+    100036: RigLArmIndex1Gizmo
+    100038: RigLArmPalm
+    100040: RigLArmPalmGizmo
+    100042: RigLArmThumb1
+    100044: RigLArmThumb1Gizmo
+    100046: RigLBLeg1
+    100048: RigLBLeg2
+    100050: RigLBLegAnkle
+    100052: RigLBLegPlatform
+    100054: RigLFLeg1
+    100056: RigLFLeg2
+    100058: RigLFLegAnkle
+    100060: RigLFLegPlatform
+    100062: RigNeck
+    100064: RigPelvis
+    100066: RigPelvisGizmo
+    100068: RigRArm1
+    100070: RigRArm1Gizmo
+    100072: RigRArm2
+    100074: RigRArm2Gizmo
+    100076: RigRArmIndex1
+    100078: RigRArmIndex1Gizmo
+    100080: RigRArmPalm
+    100082: RigRArmPalmGizmo
+    100084: RigRArmThumb1
+    100086: RigRArmThumb1Gizmo
+    100088: RigRBLeg1
+    100090: RigRBLeg2
+    100092: RigRBLegAnkle
+    100094: RigRBLegPlatform
+    100096: RigRFLeg1
+    100098: RigRFLeg2
+    100100: RigRFLegAnkle
+    100102: RigRFLegPlatform
+    100104: RigRibcage
+    100106: RigRibcageGizmo
+    100108: RigSpine1
+    100110: RigSpine2
+    100112: RigTail1
+    100114: RigTail1Gizmo
+    100116: RigTail2
+    100118: RigTail2Gizmo
+    100120: RigTail3
+    100122: RigTail3Gizmo
+    100124: RigTail4
+    100126: RigTail4Gizmo
+    100128: RigTail5
+    100130: RigTail5Gizmo
+    100132: Toon Scorpion
+    100134: //RootNode
+    400000: Rig
+    400002: RigFeelerL01
+    400004: RigFeelerL01Gizmo
+    400006: RigFeelerL02
+    400008: RigFeelerL02Gizmo
+    400010: RigFeelerR01
+    400012: RigFeelerR01Gizmo
+    400014: RigFeelerR02
+    400016: RigFeelerR02Gizmo
+    400018: RigHead
+    400020: RigHeadGizmo
+    400022: RigJaw
+    400024: RigJawGizmo
+    400026: RigLArm1
+    400028: RigLArm1Gizmo
+    400030: RigLArm2
+    400032: RigLArm2Gizmo
+    400034: RigLArmIndex1
+    400036: RigLArmIndex1Gizmo
+    400038: RigLArmPalm
+    400040: RigLArmPalmGizmo
+    400042: RigLArmThumb1
+    400044: RigLArmThumb1Gizmo
+    400046: RigLBLeg1
+    400048: RigLBLeg2
+    400050: RigLBLegAnkle
+    400052: RigLBLegPlatform
+    400054: RigLFLeg1
+    400056: RigLFLeg2
+    400058: RigLFLegAnkle
+    400060: RigLFLegPlatform
+    400062: RigNeck
+    400064: RigPelvis
+    400066: RigPelvisGizmo
+    400068: RigRArm1
+    400070: RigRArm1Gizmo
+    400072: RigRArm2
+    400074: RigRArm2Gizmo
+    400076: RigRArmIndex1
+    400078: RigRArmIndex1Gizmo
+    400080: RigRArmPalm
+    400082: RigRArmPalmGizmo
+    400084: RigRArmThumb1
+    400086: RigRArmThumb1Gizmo
+    400088: RigRBLeg1
+    400090: RigRBLeg2
+    400092: RigRBLegAnkle
+    400094: RigRBLegPlatform
+    400096: RigRFLeg1
+    400098: RigRFLeg2
+    400100: RigRFLegAnkle
+    400102: RigRFLegPlatform
+    400104: RigRibcage
+    400106: RigRibcageGizmo
+    400108: RigSpine1
+    400110: RigSpine2
+    400112: RigTail1
+    400114: RigTail1Gizmo
+    400116: RigTail2
+    400118: RigTail2Gizmo
+    400120: RigTail3
+    400122: RigTail3Gizmo
+    400124: RigTail4
+    400126: RigTail4Gizmo
+    400128: RigTail5
+    400130: RigTail5Gizmo
+    400132: Toon Scorpion
+    400134: //RootNode
+    4300000: Toon Scorpion
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Toon Scorpion
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

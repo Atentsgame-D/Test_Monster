@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 4ff400b9b20e2444081871f0b6a7fda3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigHead
+    100004: RigHub001Gizmo
+    100006: RigHub002Gizmo
+    100008: RigJawBtm
+    100010: RigJawBtmGizmo
+    100012: RigJawTop
+    100014: RigJawTopGizmo
+    100016: RigLBLeg1
+    100018: RigLBLeg2
+    100020: RigLBLegAnkle
+    100022: RigLBLegFoot1
+    100024: RigLBLegPlatform
+    100026: RigLFLeg1
+    100028: RigLFLeg2
+    100030: RigLFLegAnkle
+    100032: RigLFLegFoot1
+    100034: RigLFLegFoot2
+    100036: RigLFLegPlatform
+    100038: RigNeck
+    100040: RigPelvis
+    100042: RigPelvisGizmo
+    100044: RigRBLeg1
+    100046: RigRBLeg2
+    100048: RigRBLegAnkle
+    100050: RigRBLegFoot1
+    100052: RigRBLegPlatform
+    100054: RigRFLeg1
+    100056: RigRFLeg2
+    100058: RigRFLegAnkle
+    100060: RigRFLegFoot1
+    100062: RigRFLegFoot2
+    100064: RigRFLegPlatform
+    100066: RigRibcage
+    100068: RigSpine1
+    100070: RigSpine2
+    100072: RigTail1
+    100074: RigTail1Gizmo
+    100076: RigTail2
+    100078: RigTail2Gizmo
+    100080: RigTail3
+    100082: RigTail3Gizmo
+    100084: RigTail4
+    100086: RigTail4Gizmo
+    100088: RigTail5
+    100090: RigTail5Gizmo
+    100092: RigWingL01
+    100094: RigWingL01Gizmo
+    100096: RigWingL02
+    100098: RigWingL02Gizmo
+    100100: RigWingL03
+    100102: RigWingL03Gizmo
+    100104: RigWingR01
+    100106: RigWingR01Gizmo
+    100108: RigWingR02
+    100110: RigWingR02Gizmo
+    100112: RigWingR03
+    100114: RigWingR03Gizmo
+    100116: Toon Griffin
+    100118: //RootNode
+    400000: Rig
+    400002: RigHead
+    400004: RigHub001Gizmo
+    400006: RigHub002Gizmo
+    400008: RigJawBtm
+    400010: RigJawBtmGizmo
+    400012: RigJawTop
+    400014: RigJawTopGizmo
+    400016: RigLBLeg1
+    400018: RigLBLeg2
+    400020: RigLBLegAnkle
+    400022: RigLBLegFoot1
+    400024: RigLBLegPlatform
+    400026: RigLFLeg1
+    400028: RigLFLeg2
+    400030: RigLFLegAnkle
+    400032: RigLFLegFoot1
+    400034: RigLFLegFoot2
+    400036: RigLFLegPlatform
+    400038: RigNeck
+    400040: RigPelvis
+    400042: RigPelvisGizmo
+    400044: RigRBLeg1
+    400046: RigRBLeg2
+    400048: RigRBLegAnkle
+    400050: RigRBLegFoot1
+    400052: RigRBLegPlatform
+    400054: RigRFLeg1
+    400056: RigRFLeg2
+    400058: RigRFLegAnkle
+    400060: RigRFLegFoot1
+    400062: RigRFLegFoot2
+    400064: RigRFLegPlatform
+    400066: RigRibcage
+    400068: RigSpine1
+    400070: RigSpine2
+    400072: RigTail1
+    400074: RigTail1Gizmo
+    400076: RigTail2
+    400078: RigTail2Gizmo
+    400080: RigTail3
+    400082: RigTail3Gizmo
+    400084: RigTail4
+    400086: RigTail4Gizmo
+    400088: RigTail5
+    400090: RigTail5Gizmo
+    400092: RigWingL01
+    400094: RigWingL01Gizmo
+    400096: RigWingL02
+    400098: RigWingL02Gizmo
+    400100: RigWingL03
+    400102: RigWingL03Gizmo
+    400104: RigWingR01
+    400106: RigWingR01Gizmo
+    400108: RigWingR02
+    400110: RigWingR02Gizmo
+    400112: RigWingR03
+    400114: RigWingR03Gizmo
+    400116: Toon Griffin
+    400118: //RootNode
+    4300000: Toon Griffin
+    7400000: Fly Idle
+    9500000: //RootNode
+    13700000: Toon Griffin
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fly Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: RigHub001Gizmo
+        weight: 1
+      - path: RigHub002Gizmo
+        weight: 1
+      - path: RigJawBtmGizmo
+        weight: 1
+      - path: RigJawTopGizmo
+        weight: 1
+      - path: RigLBLegPlatform
+        weight: 1
+      - path: RigLFLegPlatform
+        weight: 1
+      - path: RigPelvis
+        weight: 1
+      - path: RigPelvis/RigLBLeg1
+        weight: 1
+      - path: RigPelvis/RigLBLeg1/RigLBLeg2
+        weight: 1
+      - path: RigPelvis/RigLBLeg1/RigLBLeg2/RigLBLegAnkle
+        weight: 1
+      - path: RigPelvis/RigLBLeg1/RigLBLeg2/RigLBLegAnkle/RigLBLegFoot1
+        weight: 1
+      - path: RigPelvis/RigRBLeg1
+        weight: 1
+      - path: RigPelvis/RigRBLeg1/RigRBLeg2
+        weight: 1
+      - path: RigPelvis/RigRBLeg1/RigRBLeg2/RigRBLegAnkle
+        weight: 1
+      - path: RigPelvis/RigRBLeg1/RigRBLeg2/RigRBLegAnkle/RigRBLegFoot1
+        weight: 1
+      - path: RigPelvis/RigSpine1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLFLeg1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLFLeg1/RigLFLeg2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLFLeg1/RigLFLeg2/RigLFLegAnkle
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLFLeg1/RigLFLeg2/RigLFLegAnkle/RigLFLegFoot1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLFLeg1/RigLFLeg2/RigLFLegAnkle/RigLFLegFoot1/RigLFLegFoot2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck/RigHead/RigJawBtm
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck/RigHead/RigJawTop
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRFLeg1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRFLeg1/RigRFLeg2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRFLeg1/RigRFLeg2/RigRFLegAnkle
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRFLeg1/RigRFLeg2/RigRFLegAnkle/RigRFLegFoot1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRFLeg1/RigRFLeg2/RigRFLegAnkle/RigRFLegFoot1/RigRFLegFoot2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigWingL01
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigWingL01/RigWingL02
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigWingL01/RigWingL02/RigWingL03
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigWingR01
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigWingR01/RigWingR02
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigWingR01/RigWingR02/RigWingR03
+        weight: 1
+      - path: RigPelvis/RigTail1
+        weight: 1
+      - path: RigPelvis/RigTail1/RigTail2
+        weight: 1
+      - path: RigPelvis/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: RigPelvis/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: RigPelvis/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: RigPelvisGizmo
+        weight: 1
+      - path: RigRBLegPlatform
+        weight: 1
+      - path: RigRFLegPlatform
+        weight: 1
+      - path: RigTail1Gizmo
+        weight: 1
+      - path: RigTail2Gizmo
+        weight: 1
+      - path: RigTail3Gizmo
+        weight: 1
+      - path: RigTail4Gizmo
+        weight: 1
+      - path: RigTail5Gizmo
+        weight: 1
+      - path: RigWingL01Gizmo
+        weight: 1
+      - path: RigWingL02Gizmo
+        weight: 1
+      - path: RigWingL03Gizmo
+        weight: 1
+      - path: RigWingR01Gizmo
+        weight: 1
+      - path: RigWingR02Gizmo
+        weight: 1
+      - path: RigWingR03Gizmo
+        weight: 1
+      - path: Toon Griffin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
